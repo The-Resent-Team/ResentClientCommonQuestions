@@ -11,3 +11,6 @@ A) Check the crash log, keep on scrolling down till it says "caused by ${X}: ${M
 
 ### Q) Resent Client crashes when XXX happens!
 A) Check the discord, and see if it has been reported. If not, report it, WITH THE CRASH LOG! We can not assist you WITHOUT THE CRASH LOG! If the game doesn't fully crash, but rather hangs indefinitely, open dev-tools with ctrl+shift+i and click the CONSOLE tab. Send a screenshot of the tab's contents as the log.
+
+### Q) why is under y=0 and over y=255 so scuffed when on a Prelude server?
+A) to remain compatible with anticheats and not false flag, if you have suggestions dm me on discord
